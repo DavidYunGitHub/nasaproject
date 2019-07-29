@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Nasa project that I made for Digital Crafts solo project week. Used Nasa API for pictures and created the app with React. Used ParticlesJS for motion graphics. 
+
 ## Available Scripts
 
 In the project directory, you can run:
